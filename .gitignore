@@ -1,0 +1,11 @@
+# Node modules
+/frontend/node_modules
+/server/node_modules
+
+# Build directories
+/frontend/dist
+/server/dist
+
+# Environment files
+/frontend/src/environments
+/backend/config/.env
